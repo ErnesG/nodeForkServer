@@ -1,0 +1,19 @@
+{
+  "name": "forkserver",
+  "version": "1.0.0",
+  "description": "a server that forks a clhild",
+  "main": "fork_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErnesG/nodeForkServer.git"
+  },
+  "author": "Ernesto G",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ErnesG/nodeForkServer/issues"
+  },
+  "homepage": "https://github.com/ErnesG/nodeForkServer#readme"
+}
